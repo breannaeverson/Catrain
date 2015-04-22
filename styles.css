@@ -1,4 +1,9 @@
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,200);
+
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
 #cssmenu,
 #cssmenu ul,
 #cssmenu ul li,
@@ -15,7 +20,7 @@
   box-sizing: border-box;
 }
 #cssmenu {
-  width: 220px;
+  width: 20%;
   font-family: Raleway, sans-serif;
   color: #ffffff;
 }
@@ -108,4 +113,11 @@
 #cssmenu ul ul > li.has-sub > a:before {
   top: 20px;
   background: #dddddd;
+}
+
+.content {
+  width: 80%;
+  position: ;
+  text-align: left;
+  display: inline;
 }
