@@ -40,13 +40,13 @@ body {
   font-size: 16px;
   text-decoration: none;
   color: #ffffff;
-  background: #BDBDBD;
+  background: #BDA0CB;
   -webkit-transition: color .2s ease;
   -o-transition: color .2s ease;
   transition: color .2s ease;
 }
 #cssmenu > ul > li > a:hover {
-  color: #d8f3f0;
+  color: #816687;
 }
 #cssmenu ul > li.has-sub > a:after {
   position: absolute;
@@ -94,7 +94,7 @@ body {
   font-size: 14px;
   text-decoration: none;
   color: #dddddd;
-  background: #49505a;
+  background: #808080;
   -webkit-transition: color .2s ease;
   -o-transition: color .2s ease;
   transition: color .2s ease;
@@ -125,5 +125,5 @@ cb {
     color: #FFF;
 }
 a {
-    color: #551a8b;
+    color: #816687;
 }
